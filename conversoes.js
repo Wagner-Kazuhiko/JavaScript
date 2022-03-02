@@ -15,6 +15,3 @@ console.log(numero == numeroString);
 //String()
 console.log(numero + numeroString)
 console.log(numero + Number(numeroString))
-
-
-
